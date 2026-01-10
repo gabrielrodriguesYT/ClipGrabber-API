@@ -40,7 +40,7 @@ ClipGrabber-API/
 
 Before running the project, make sure you have:
 
-* **Python 3.9+**
+* **Python 3.6+**
 * **pip**
 * **FFmpeg** (mandatory, otherwise videos will be downloaded without audio)
 
